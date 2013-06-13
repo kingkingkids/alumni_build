@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+.label {border:0 !important;border-radius:0 !important;}
+.label span {display:block;width:100%;text-align:center;color:#575757;font-size:14px/20px Microsoft YaHei;position:absolute;bottom:0;}
+.ico001 {background:url(../images/ico001.png) no-repeat center center !important;}
+.ico002 {background:url(../images/ico002.png) no-repeat center center !important;}
+.ico003 {background:url(../images/ico003.png) no-repeat center center !important;}
+.ico004 {background:url(../images/ico004.png) no-repeat center center !important;}
+.ico005 {background:url(../images/ico005.png) no-repeat center center !important;}
+.ico006 {background:url(../images/ico006.png) no-repeat center center !important;}
+.ico007 {background:url(../images/ico007.png) no-repeat center center !important;}
+.ico008 {background:url(../images/ico008.png) no-repeat center center !important;}
+.ico009 {background:url(../images/ico009.png) no-repeat center center !important;}
+.myToolbar .x-pack-start{-webkit-box-pack:center !important;}
+.myToolbar {background:#483229 !important;border-top:1px solid #503b31 !important;border-bottom:1px solid #302119 !important;}
+.back{background:url(../images/back.png); width:10px; height:auto;}
+.newsList{background:#dfdfdf none !important;}
+.logo{background:url(../images/logo.png) no-repeat center center,#483229  !important;}
+.xw{background:url(../images/xw.png) no-repeat center center !important;}
+.gg{background:url(../images/gg.png) no-repeat center center !important;}
+.xyzf{background:url(../images/xyzf.png) no-repeat center center !important;}
+.hgxc{background:url(../images/hgxc.png) no-repeat center center !important;}
+.xyhkw{background:url(../images/xyhkw.png) no-repeat center center !important;}
+.weibo{background:url(../images/weibo.png) no-repeat center center !important;}
+.xyl{background:url(../images/xyl.png) no-repeat center center !important;}
+.more{background:url(../images/more.png) no-repeat center center !important;}
+.listTitle{font-family:Microsoft YaHei;font-size:14px;}
+.listDate{font-family:Microsoft YaHei;font-size:12px;color:#999}
+.detailTitle,.detailPubDate,.detailContent {color:#333;font-family:Microsoft YaHei;line-height:200%; padding:0 10px 0 10px;}
+.detailTitle {text-align:left;font-size:20px;word-wrap:break-word;line-height:30px;font-weight:bold;padding:10px 10px;}
+.detailPubDate {text-align:left;font-size:12px;font-weight:normal !important;font-family:Microsoft YaHei !important;color:#999;padding-left:10px;}
+.detailContent {font-size:14px;padding:10px 10px;}
+.detailContent p,.detailContent span{background:none !important;}
+.Item{display:block;color:#333;}
+.Item img {border:0;}
+.hgxcList .hkItem img{max-width:80px;height:90px;}
+.hgxcList .hkItem{float:left;}
+.hgxcList .hkTitle{float:left;padding-left:10px;width:180px;}
+.hgxcList .hkDate{float:left;padding-left:10px;padding-top:10px;}
+.hgxcList .itemInfo{padding-left:95px;min-height:90px;}
+.hgxcList .linkItem{color:#333; text-decoration:none}
+.list2{-webkit-border-radius : 10px;}   
+.list2 .x-list-item{ background-color : #FFF; border:1px solid silver; -webkit-border-radius : 10px;}  
+.list2 .x-list-item:first-of-type{ margin : 0 0 15px 0; border-top:1px solid silver; } 
+.list2 .x-list-item:nth-of-type(2){ -webkit-border-bottom-left-radius:0px; -webkit-border-bottom-right-radius:0px; } 
+.list2 .x-list-item:nth-of-type(3){ border-top:0px; margin : 0 0 15px 0; -webkit-border-top-left-radius:0px; -webkit-border-top-right-radius:0px;} 
+.list2 .x-list-item:nth-of-type(4){ -webkit-border-bottom-left-radius:0px; -webkit-border-bottom-right-radius:0px; } 
+.list2 .x-list-item:nth-of-type(5){ border-top:0px; -webkit-border-radius:0px; } 
+.list2 .x-list-item:nth-of-type(6){ border-top:0px; margin : 0 0 15px 0; -webkit-border-top-left-radius:0px; -webkit-border-top-right-radius:0px;} 
+.list2 .x-list-item:nth-of-type(7){ margin : 0 0 15px 0;}   
+.x-item-selected {background:none !important;color:#fff !important;}
+.x-item-selected .listTitle {color:#fff !important;}
+.list2 .x-item-selected:last-child{ -webkit-border-bottom-left-radius:10px; -webkit-border-bottom-right-radius:10px;} 
+.list2 .x-item-selected:first-of-type{ -webkit-border-top-left-radius:10px; -webkit-border-top-right-radius:10px; }  
+.list2 img{ margin-right:10px;} 
+.dc-back {background:#483229 url(../images/back.jpg) no-repeat left top !important;border:0 !important;width:50px !important;height:42px !important;}
+.x-list-paging-msg {text-align:center;padding:10px;}
+.x-list-normal .x-list-item .x-dock-horizontal {border-top:1px solid #ccc !important;}
+.x-item-selected .listDate {color:#fff;}
+.pnewsTitle {width: 100%;position: absolute;top: 196px;z-index: 99;word-spacing: nowrap !important;color:#fff;font-size:14px;height:47px;padding:2px 10px 2px 10px;}
+.newsCvoer {width: 100%;position: absolute;top: 196px;background: #333;overflow: hidden;height:51px;z-index: 90;opacity:.8;}
+.pnewsTitle .nTitle {height:20px;line-height:20px;width: 100%;overflow: hidden;text-overflow: ellipsis;color:#f1f1f1;font-weight:bold;}
+.pnewsTitle span{font-size:11px;color:#fff;}
+.hgxcList .x-list-item {border:0 !important;}
+.hgxcList  .x-dock-horizontal {margin:10px !important;background:#fff	;border:0 !important;}
+.hgxcList .x-item-hidden {border:0 !important;}
+.xyhkList .x-list-item {border:0 !important;}
+.xyhkList  .x-dock-horizontal {margin:10px !important;background:#fff;border:0 !important;}
+.xyhkList .x-item-hidden {border:0 !important;}
+.xyhkList .Item{height:120px;}
+.xyhkList .hkItem img{max-width:80px;}
+.xyhkList .hkItem{float:left;}
+.xyhkList .hkTitle{float:left;padding-left:10px;}
+.xyhkList .hkDate{float:left;padding-left:10px;padding-top:10px;}
+.xyhkList .itemInfo{padding-left:95px;min-height:90px;}
+.linkItem{color:#333; text-decoration:none}
+.weiboList .hkItem img{max-width:80px;}
+.weiboList .hkItem{float:left;}
+.weiboList .hkTitle{float:left;padding-left:10px;}
+.weiboList .hkDate{float:left;padding-left:10px;padding-top:10px;}
+.weiboList .itemInfo{padding-left:95px;min-height:70px;}
+.x-mask .x-mask-inner {padding:0 !important;}

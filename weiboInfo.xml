@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+<item>
+	<id>1</id>
+	<image_url>resources/images/scut_logo.png</image_url>
+	<link>http://weibo.com/scutalumni</link>
+	<title>华南理工大学校友会</title>
+	<description> 
+	简介：华南理工大学校友会
+	</description>
+</item>
+<item>
+	<id>2</id>
+	<image_url>resources/images/scut_logo.png</image_url>
+	<link>http://weibo.com/scutsh</link>
+	<title>SCUT上海校友会</title>
+	<description>
+	简介：华南理工大学上海校友会是由在沪的华工校友自愿组成的联合性、非营利性的群众组织。scut上海校友群QQ号：78599488 ， 欢迎在沪华工人实名加入~
+	</description>
+</item>
+<item>
+	<id>3</id>
+	<image_url>resources/images/scut_logo.png</image_url>
+	<link>http://weibo.com/scutdg</link>
+	<title>SCUT东莞校友会</title>
+	<description>
+	简介：华工校友资源整合平台，可帮忙转发招聘、活动、论坛、项目等。工作群：85823724 学生群：130581151
+	</description>
+</item>
+<item>
+	<id>4</id>
+	<image_url>resources/images/scut_logo.png</image_url>
+	<link>http://weibo.com/scutsingapore</link>
+	<title>华南理工大学新加坡校友会</title>
+	<description>
+	简介：官网www.scut-singapore.org。QQ群124041008。
+	</description>
+</item>
+<item>
+	<id>5</id>
+	<image_url>resources/images/scut_logo.png</image_url>
+	<link>http://weibo.com/scuthz</link>
+	<title>华南理工惠州校友会</title>
+	<description>
+	简介：无
+	</description>
+</item>
+<item>
+	<id>6</id>
+	<image_url>resources/images/scut_logo.png</image_url>
+	<link>http://weibo.com/scutsz</link>
+	<title>SCUT深圳校友会</title>
+	<description>
+	简介：无
+	</description>
+</item>
+<item>
+	<id>7</id>
+	<image_url>resources/images/scut_logo.png</image_url>
+	<link>http://weibo.com/u/2710889520</link>
+	<title>scut海南校友会</title>
+	<description>
+	简介：无
+	</description>
+</item>
+</dataset>
