@@ -88,7 +88,7 @@
 
         Otherwise, you can specify specific domains:
     -->
-    <access origin="*"/>
+    
 
     <access origin="59.42.210.173:8010"/> <!-- allow local pages -->
     <!--
